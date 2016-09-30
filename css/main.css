@@ -1,0 +1,47 @@
+* {
+  border: 1px solid black;
+}
+body {
+  background-color: #252525;
+}
+.intro {
+  font: 50px Arial, sans-serif;
+  color: #313030;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.me {
+  height: 380px;
+  background-color: #B7FAFF;
+  text-align: center;
+}
+.backdrop {
+  height: 380px;
+  background-color: #DBFCFF;
+}
+.beta {
+  height: 380px;
+  background-color: #82F5FF;
+  text-align: center;
+}
+.beta h1 {
+  font: 40px Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: -3px;
+}
+.port {
+  height: 600px;
+  text-align: center;
+}
+.thumb_1 {
+  height: 150px;
+  width: 150px;
+  background-color: #DBFCFF;
+  margin: 25px;
+}
+.contact {
+  height: 380px;
+  background-color: #EDFEFF;
+  text-align: center;
+}
